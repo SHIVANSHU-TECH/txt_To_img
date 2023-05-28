@@ -41,6 +41,3 @@ Image saved as output_image.png
 
 This will generate an image with the text "Hello, World!" and save it as "output_image.png" in the project directory.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
